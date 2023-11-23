@@ -1,14 +1,5 @@
 import random
 
-#choices = ["rock","paper","scissors"]
-
-#computer = random.choice(choices)
-
-#player = input("rock, paper or scissors?: ")
-
-#print("player: ",player)
-#print("computer: ",computer)
-
 while True:
     choices = ["rock","paper","scissors"]
 
@@ -55,3 +46,5 @@ while True:
     if play_again != "yes":
         break
 print("Bye!")
+
+
